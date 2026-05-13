@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@azure/functions": "^4.0.0",
-    "msnodesqlv8": "^5.2.0",
+ 
     "mssql": "^12.5.2"
   },
   "devDependencies": {
