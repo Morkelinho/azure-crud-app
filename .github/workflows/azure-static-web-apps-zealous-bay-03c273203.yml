@@ -43,8 +43,9 @@ jobs:
           app_location: "/" # App source code path
           api_location: "api" # Api source code path - optional
           output_location: "" # Built app content directory - optional
-          skip_app_build: true
           
+          skip_app_build: true
+          skip_api_build: true
           api_build_command: "npm install"
           node_version: "18"
 
